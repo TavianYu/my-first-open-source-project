@@ -1,13 +1,29 @@
-# 我的第一个开源项目
+# SimpleTodo
 
-这是一个正在开发中的开源项目，计划用于学习和实践开源贡献。
+> A beginner-friendly open-source to-do list application built with Go and React for learning full-stack development.
 
-## 计划功能
-- 未来将实现一个简单的待办事项应用
-- 采用现代前端框架
-- 提供详细的文档和示例
+## 📦 Project Overview
+This project is a minimal to-do list app designed to help new developers learn open-source contribution workflows. It uses Go for the backend API and React for the frontend, with a focus on clean code structure and documentation.
 
-## 开发计划
-- 第一阶段：基础框架搭建（本周）
-- 第二阶段：核心功能开发（下个月）
-- 第三阶段：完善文档和测试
+## 🧱 Current Progress
+- ✅ Initial project structure created (README + LICENSE)
+- 🚧 Backend API development in progress (user authentication)
+- 🛠️ Frontend UI design planned (using Tailwind CSS)
+
+## 📅 Development Timeline
+- **Phase 1**: Project initialization (Completed)
+- **Phase 2**: Backend API implementation (Target: Dec 2025)
+- **Phase 3**: Frontend integration & testing (Target: Jan 2026)
+
+## 🤝 Contributing
+1. **Report issues** for bugs or feature requests
+2. **Submit pull requests** for new features (follow CONTRIBUTING.md)
+3. **Join discussions** to help shape project direction
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🌐 Contact
+- GitHub Repository: https://github.com/example/SimpleTodo
+- Issues: https://github.com/example/SimpleTodo/issues
+- Discussions: https://github.com/example/SimpleTodo/discussions
